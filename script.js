@@ -67,4 +67,4 @@ btnHold.addEventListener("click", function () {
     //Switch to the next player
     switchPlayer();
 });
-console.log("new eddition");
+console.log("new edition");
